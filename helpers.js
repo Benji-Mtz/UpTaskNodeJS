@@ -1,0 +1,3 @@
+exports.vardump = (objeto) => {
+    
+}
